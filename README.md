@@ -29,4 +29,3 @@ Key Concept: sizeof() Operator: It finds out how much memory (in bytes) each dat
 
 Conclusion: The program ends after showing all the values and their memory sizes. This helps users learn how to practically use datatypes in C++, but it also introduces the idea of memory allocation for datatypes. This is essential in understanding data storage and management in programming.
 
-Data-types-in-CPP/README.md at main · Harshh00100/Data-types-in-
