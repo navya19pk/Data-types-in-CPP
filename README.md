@@ -20,11 +20,11 @@ Boolean (bool): The program accepts a boolean input(0= false, 1=true), shows it,
 
 Algorithm:
 
-Start
-Declare the following variables:
-Prompt the user to enter values:
-Display each value along with its data size:
-End
+Step- 1: Start
+Step- 2: Declare the following variables:
+Step- 3: Prompt the user to enter values:
+Step- 4: Display each value along with its data size:
+Step- 5: End
 Key Concept: sizeof() Operator: It finds out how much memory (in bytes) each data type occupies. Data Representation: This program illustrates how different data types represent various data and the memory requirement of each. User Interaction: For every data type, the program asks the user, reads the input with cin, then outputs the value and the size of the datatype.
 
 Conclusion: The program ends after showing all the values and their memory sizes. This helps users learn how to practically use datatypes in C++, but it also introduces the idea of memory allocation for datatypes. This is essential in understanding data storage and management in programming.
