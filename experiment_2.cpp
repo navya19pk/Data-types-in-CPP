@@ -1,3 +1,7 @@
+// Navya Pawan Khajuria
+// 24070123151
+// B3
+
 #include <iostream>
 #include <cstring>
 using namespace std;
@@ -26,3 +30,15 @@ int main() {
 
     return 0;
 }
+
+//Output:
+//Enter an integer: 6
+//Enter a float: 1.9
+//Enter a double: 23
+//Enter a character: n
+//Enter a string: navya
+//Integer: 6, Size: 4 bytes
+//Float: 1.9, Size: 4 bytes
+//Double: 23, Size: 8 bytes
+//Character: n, Size: 1 bytes
+//String: navya, Size: 100 bytes
